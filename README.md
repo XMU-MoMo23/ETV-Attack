@@ -8,4 +8,6 @@ The design of ETV-Attack is grounded in two key premises. First, large-scale pre
 </div>
 
 ## Overview
-<img src="./images/Overview.png" width="850">
+<div align="center">
+<img src="./images/Overview.png" width="1000">
+</div>
